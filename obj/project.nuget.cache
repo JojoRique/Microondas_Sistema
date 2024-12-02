@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XI+5rX5MhPs=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hcama\\Desktop\\Microondas_novo\\MicroondasDigital.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hcama\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
