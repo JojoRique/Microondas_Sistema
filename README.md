@@ -7,3 +7,5 @@ Programas Pré-definidos: Fornece uma lista de programas configurados (exemplo: 
 Aquecimento Rápido: Inicia automaticamente com tempo e potência padrão. Interface com Teclado Digital: Simula um teclado para inserção de dados. 
 Funcionalidades de Pausa e Cancelamento: Permite pausar ou cancelar o aquecimento a qualquer momento. 
 Validações: Inclui validações para tempo e potência, garantindo que estejam dentro dos limites aceitáveis.
+
+Apena digite dotnet run no terminal na pasta do projeto e a interface aparecera 
